@@ -1,0 +1,6 @@
+{
+  "name": "ScanPe",
+  "description": "Digital Billing, Khata, UPI Payments & Loyalty Rewards for Businesses & Customers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
